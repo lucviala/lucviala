@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucviala
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning Rust-lang and his ecosystem.
+- 🌱 I’m currently learning Rust-lang and it's ecosystem.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
